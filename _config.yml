@@ -70,3 +70,9 @@ theme: light
 deploy:
   type: git
   repo: https://github.com/jasssonpet/jasssonpet.github.com
+
+# HTML Minifier
+html_minifier:
+  collapseWhitespace: true
+  conservativeCollapse: true
+  preserveLineBreaks: true
