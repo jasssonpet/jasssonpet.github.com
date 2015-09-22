@@ -1,7 +1,7 @@
 menu:
   Home: /
   Archives: /archives
-  GitHub: https://github.com/jasssonpet/
+  About: /about-me
 
 widgets:
 - category
