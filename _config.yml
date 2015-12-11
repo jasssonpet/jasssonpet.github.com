@@ -69,7 +69,7 @@ theme: light
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jasssonpet/jasssonpet.github.com
+  repo: git@github.com:jasssonpet/jasssonpet.github.com.git
 
 # HTML Minifier
 html_minifier:
