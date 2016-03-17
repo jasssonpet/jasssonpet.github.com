@@ -49,4 +49,6 @@ Tell us what you think about this feature in the related issue - [#353](https://
 
 There are some [known issues](https://github.com/NativeScript/ios-runtime/issues/282) with generating TypeScript declarations for now, but if you find any new bugs in the generated TypeScript declarations we will be glad to fix them if you [report them on GitHub](https://github.com/NativeScript/ios-runtime/issues/new).
 
-**UPDATE:** You can also use the [Babel](https://www.npmjs.com/package/nativescript-dev-babel), [CoffeeScript](https://www.npmjs.com/package/nativescript-dev-coffeescript) and [TypeScript](https://www.npmjs.com/package/nativescript-dev-typescript) NativeScript CLI plugins to ease the configuration of the the transpilers in your NativeScript project.
+**UPDATE 1:** You can also use the [Babel](https://www.npmjs.com/package/nativescript-dev-babel), [CoffeeScript](https://www.npmjs.com/package/nativescript-dev-coffeescript) and [TypeScript](https://www.npmjs.com/package/nativescript-dev-typescript) NativeScript CLI plugins to ease the configuration of the the transpilers in your NativeScript project.
+
+**UPDATE 2:** JSDoc comments for native APIs are now implemented - [#37](https://github.com/NativeScript/ios-metadata-generator/pull/37).
